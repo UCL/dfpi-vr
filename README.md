@@ -24,6 +24,7 @@
 6. Switch to the Android Build Target
 
 # [Quick Tests using a Quest Link cable](https://developer.oculus.com/documentation/unity/unity-link/)
+Oculus Link only works on Windows (PC). If you only have a mac you can't use this feature, and must always build your game to the Quest.
 
 # [OCULUS LINK CABLE COMPATIBILITY LIST - !!! IMPORTANT !!!](https://docs.google.com/spreadsheets/d/1ZamZ1z356On28UcNl0vQdzWvgbmFSyb7spFpxi187ag/edit#gid=0)
 
