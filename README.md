@@ -7,7 +7,7 @@
 
 ## [Oculus Starter Samples](https://developer.oculus.com/documentation/unity/unity-starter-samples/)
 
-## [Meta XR Interaction Samples](https://developer.oculus.com/downloads/package/meta-xr-interaction-sdk-ovr-samples)
+## [Meta XR Interaction Samples](https://assetstore.unity.com/packages/tools/integration/meta-xr-interaction-sdk-ovr-samples-268521)
 
 # Before you start
 0. Make sure you have Unity 2023.2.7 or later
