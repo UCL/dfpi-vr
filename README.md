@@ -25,6 +25,7 @@
 
 # [Quick Tests using a Quest Link cable](https://developer.oculus.com/documentation/unity/unity-link/)
 
+# [OCULUS LINK CABLE COMPATIBILITY LIST - !!! IMPORTANT !!!](https://docs.google.com/spreadsheets/d/1ZamZ1z356On28UcNl0vQdzWvgbmFSyb7spFpxi187ag/edit#gid=0)
 
 
 
